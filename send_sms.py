@@ -6,7 +6,7 @@ from urllib3.poolmanager import PoolManager
 
 # Africa's Talking API credentials
 username = 'agrigrow'  # Use 'sandbox' for testing in the sandbox environment
-api_key = '7c9ab98ce65e7741e424b7f07d7cd3c4404811732220fed5ac860573333c2ba2'
+api_key = 'use_api_key from Africas Talking'
 
 # Initialize SDK
 africastalking.initialize(username, api_key)
